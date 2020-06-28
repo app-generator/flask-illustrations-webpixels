@@ -1,11 +1,9 @@
-# [Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate)
+# [Flask App - Illustrations by Webpixels](https://flask-illustrations-webpixels.appseed.us)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple web apps coded in [Flask](https://palletsprojects.com/p/flask/)
-
-## Features
+> Open-Source Web App generated in Flask by AppSeed [Web App Generator](https://appseed.us/app-generator) - Features:
 
 - UI Kit: **Quick** (Free Version) by **Webpixels**
-- Theme: [Jinja2 Quick UI Kit](https://github.com/app-generator/theme-jinja2-quick-uikit)
+- Illustrations by Webpixels
 - SQLite database, Flask-SQLAlchemy ORM
 - Session-Based auth flow (login, register)
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
@@ -15,32 +13,14 @@
 
 > Links
 
-- [Boierplate Code Flask](https://boilerplate-code-flask.appseed.us/) - LIVE Demo
+- [Flask App - Illustrations by Webpixels](https://flask-illustrations-webpixels.appseed.us) - LIVE Demo
 - [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
-- [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate) - Official product page
 - More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
 - [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
 
-> Projects that use this starter
-
-- [Flask Pixel UI Kit](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - [demo](https://flask-pixel-bootstrap-uikit.appseed.us/login.html), [sources](https://github.com/app-generator/flask-pixel-bootstrap-uikit)
-- [Flask Pixel UI Kit PRO](https://appseed.us/apps/flask-apps/flask-pixel-uikit-pro) - [demo](https://flask-pixel-uikit-pro.appseed.us/login.html)
-- [Flask Neumorphism UI](https://appseed.us/apps/flask-apps/flask-neumorphism-uikit) - [demo](https://flask-neumorphism-uikit.appseed.us/login.html), [sources](https://github.com/app-generator/flask-neumorphism-uikit)
-
 <br />
 
-## Want more? Go PRO!
-
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
-
-| [Flask DattaAble Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask StarAdmin Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro) |
-| --- | --- | --- |
-| [![Flask DattaAble Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable-dark-pro/master/media/flask-dashboard-dattaable-dark-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask StarAdmin Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-staradmin-black-pro/master/media/flask-dashboard-staradmin-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)
-
-<br />
-<br />
-
-![Boierplate Code Flask - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/boilerplate-code-flask/master/media/boilerplate-code-flask-screen.png)
+![Boierplate Code Flask - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-webpixels/master/media/flask-illustrations-webpixels-screen.png)
 
 <br />
 
@@ -48,8 +28,8 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/boilerplate-code-flask.git
-$ cd boilerplate-code-flask
+$ git clone https://github.com/app-generator/flask-illustrations-webpixels.git
+$ cd flask-illustrations-webpixels
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -143,8 +123,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/boilerplate-code-flask.git
-$ cd boilerplate-code-flask
+$ git clone https://github.com/app-generator/flask-illustrations-webpixels.git
+$ cd flask-illustrations-webpixels
 ```
 
 > Start the app in Docker
@@ -169,8 +149,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/boilerplate-code-flask.git
-$ cd boilerplate-code-flask
+$ git clone https://github.com/app-generator/flask-illustrations-webpixels.git
+$ cd flask-illustrations-webpixels
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
@@ -243,4 +223,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask App - Illustrations by Webpixels](https://flask-illustrations-webpixels.appseed.us) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).

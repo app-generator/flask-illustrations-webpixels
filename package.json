@@ -1,16 +1,16 @@
 {
-    "name": "boilerplate-code-flask",
+    "name": "flask-illustrations-webpixels",
     "mastertemplate": "boilerplate-code-flask",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "description": "Template project - Flask Boilerplate Code",
     "scripts": {
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/boilerplate-code-flask"
+        "url": "https://github.com/app-generator/flask-illustrations-webpixels"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/boilerplate-code-flask/issues",
+        "url": "https://github.com/app-generator/flask-illustrations-webpixels/issues",
         "email": "support@appseed.us"
     },
     "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
