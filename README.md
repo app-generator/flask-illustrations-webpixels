@@ -21,7 +21,7 @@
 
 <br />
 
-![Boierplate Code Flask - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-webpixels/master/media/flask-illustrations-webpixels-screen.png)
+![Flask App Webpixels - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-webpixels/master/media/flask-illustrations-webpixels-screen.png)
 
 <br />
 
